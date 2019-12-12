@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 def applies_to_rules(number):
     same = False
     digits = [int(d) for d in str(number)]
